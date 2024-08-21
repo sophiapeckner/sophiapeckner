@@ -1,3 +1,11 @@
-## Hi there 👋
+## Hi there, I am Sophia 👋
 
-I'm Sophia! I'm a coder 👩‍💻, student 👩‍🎓, AI enthusiast 🦾, and sweet treat lover 🍪. Feel free to reach out to me at sophiapeckner@gmail.com.
+### About Me:
+
+- 👩‍🎓 I'm a university student at California Polytechnic State University, San Luis Opisbo
+- 🦾 I'm a coder exploring the AI domain 
+- 🔭 Currently working on computer vision
+
+### Let's Connect!
+
+📩 sophiapeckner@gmail.com
